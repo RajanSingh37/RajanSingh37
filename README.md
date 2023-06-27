@@ -1,8 +1,7 @@
-[![MasterHead](https://drive.google.com/file/d/1kmBYcdIi6u4fWuVFwfcmqkPAipnEqnxS/view?usp=sharing)]
+
 <h1 align="center">Hi 👋, I'm Rajan Singh</h1>
 <h3 align="center">I am a Web Developer by passion and profession from India</h3>
-<img align="right"
- alt="Coding" width="400" src="Desktop\Hola\IMG-20220307-WA0077.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajansingh37&label=Profile%20views&color=0e75b6&style=flat" alt="rajansingh37" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajansingh" target="blank"><img src="https://img.shields.io/twitter/follow/rajansingh?logo=twitter&style=for-the-badge" alt="rajansingh" /></a> </p>
