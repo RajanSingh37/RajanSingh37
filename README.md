@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajansingh" target="blank"><img src="https://img.shields.io/twitter/follow/rajansingh?logo=twitter&style=for-the-badge" alt="rajansingh" /></a> </p>
 
-- 🔭 I’m currently working on **Most popular Ecommerce-platform (Amazon) clone**
+- 🔭 I’m currently working on **Most popular E-commerce platform (Amazon) clone**
 
 - 💬 Ask me about **HTML5 || CSS3 || JavaScript || Core Java**
 
