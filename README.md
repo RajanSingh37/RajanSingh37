@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Most popular E-commerce platform (Amazon) clone**
 
-- 💬 Ask me about **HTML5 || CSS3 || JavaScript || Core Java**
+- 💬 Ask me about **HTML5 || CSS3 || Bootstrap || JavaScript || Java || DSA || Git & Github**
 
 - 📫 How to reach me **ssrajan841@gmail.com**
 
