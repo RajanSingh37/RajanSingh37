@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajansingh" target="blank"><img src="https://img.shields.io/twitter/follow/rajansingh?logo=twitter&style=for-the-badge" alt="rajansingh" /></a> </p>
 
-- 🔭 I’m currently working on **Most popular E-commerce platform (Amazon) clone**
+- 🔭 I’m currently working on **A button feature i.e. Add friend and Remove friend with smae button**
 
 - 💬 Ask me about **HTML5 || CSS3 || Bootstrap || JavaScript || Java || DSA || Git & Github**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lZPv63Bc6H5jLpSbXNQZw8OE4aI4ncYN/view?usp=sharing](https://drive.google.com/file/d/1lZPv63Bc6H5jLpSbXNQZw8OE4aI4ncYN/view?usp=sharing)
 
-- ⚡ Fun fact **I celebrate every small wins**
+- ⚡ Fun fact **Keep learning what matters & I celebrate every small wins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
