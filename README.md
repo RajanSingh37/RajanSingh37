@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/rajansingh" target="blank"><img src="https://img.shields.io/twitter/follow/rajansingh?logo=twitter&style=for-the-badge" alt="rajansingh" /></a> </p>
 
-- 🔭 I’m currently working on **A button feature i.e. Add friend and Remove friend with smae button**
+- 🔭 I’m currently working on **Weather app with more features & A button feature i.e. Add friend and Remove friend with smae button**
 
 - 💬 Ask me about **HTML5 || CSS3 || Bootstrap || JavaScript || Java || DSA || Git & Github**
 
 - 📫 How to reach me **ssrajan841@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lZPv63Bc6H5jLpSbXNQZw8OE4aI4ncYN/view?usp=sharing](https://drive.google.com/file/d/1lZPv63Bc6H5jLpSbXNQZw8OE4aI4ncYN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lZPv63Bc6H5jLpSbXNQZw8OE4aI4ncYN/view?usp=sharing](https://drive.google.com/file/d/12Ud6alwXKyn52_0ZnV701DkyIWj2EiZ7/view?usp=sharing)
 
 - ⚡ Fun fact **Keep learning what matters & I celebrate every small wins**
 
