@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/rajansingh" target="blank"><img src="https://img.shields.io/twitter/follow/rajansingh?logo=twitter&style=for-the-badge" alt="rajansingh" /></a> </p>
 
 
-- 🔭 I’m currently working on **Weather app with more features & A button feature i.e. Add friend and Remove friend with the same button**
+- 🔭 I’m currently working on **Engaged in the comprehensive development of a sophisticated video-streaming platform through the seamless integration of the MERN (MongoDB, Express.js, React, Node.js) stack. Demonstrated expertise in full-stack engineering, contributing to the creation of a dynamic and user-centric solution for multimedia content delivery. This involvement showcases a proficient understanding of cutting-edge technologies and a commitment to delivering innovative digital experiences**
 
 - 💬 Ask me about **Core Java || DSA || HTML5 || CSS3 || JavaScript || React || MongoDB || Express || Node.js || Git & Github || Linux**
 
