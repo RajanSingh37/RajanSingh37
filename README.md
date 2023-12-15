@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajansingh" target="blank"><img src="https://img.shields.io/twitter/follow/rajansingh?logo=twitter&style=for-the-badge" alt="rajansingh" /></a> </p>
 
+
 - 🔭 I’m currently working on **Weather app with more features & A button feature i.e. Add friend and Remove friend with the same button**
 
 - 💬 Ask me about **Core Java || DSA || HTML5 || CSS3 || JavaScript || React || MongoDB || Express || Node.js || Git & Github || Linux s**
@@ -20,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/si21652239/status/1617942831590682624?t=0KUghqxyxGSc06WLNd8Znw&s=19 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajansingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/7rajansingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajansingh" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/@NeaMindz/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nea mindz" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/rajan_singh841/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajan's_insta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
