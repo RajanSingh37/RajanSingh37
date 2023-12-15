@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Weather app with more features & A button feature i.e. Add friend and Remove friend with the same button**
 
-- 💬 Ask me about **Core Java || DSA || HTML5 || CSS3 || JavaScript || React || MongoDB || Express || Node.js || Git & Github || Linux s**
+- 💬 Ask me about **Core Java || DSA || HTML5 || CSS3 || JavaScript || React || MongoDB || Express || Node.js || Git & Github || Linux**
 
 - 📫 How to reach me **ssrajan841@gmail.com**
 
